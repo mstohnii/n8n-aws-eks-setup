@@ -65,7 +65,6 @@ Using Lens, you can monitor the progress of actions on the cluster (in the event
 - Go back to our Cloudflare DNS tab in browser and add a new record. Select CNAME as the type, than enter the `name` of our domain or leave `@` in the *name* field, and enter the **Load balancer URL** in the *value* field. Click **save**.
 ## Step 5: FINAL
 In a few minutes, everything will be up and running and will work via the https protocol.
-In this case, you can check it by following the link - https://njordops.net/
 
 Notes: The work was completed approximately two weeks prior to the writing of this instruction. Please note that this instruction was written without the use of AI and entirely from memory (with the exception of two commands—creating a role for the EBS driver and setting the default Storage Class, for these two cases, the official guides for them was used)
 
